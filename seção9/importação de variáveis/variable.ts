@@ -1,0 +1,1 @@
+export const y = 'variável de importação'
